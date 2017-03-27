@@ -4,6 +4,6 @@ jest super
 i
 w ogole ;)
 -----
-jakies zmiany
+chujowa zmiana ktora nie dziala
 niekonfiliktowe
 
